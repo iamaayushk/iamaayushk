@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Aayush Kumar Singh 👋
 
-# Bio:
 - Developer and tech enthusiast passionate about building web applications.
 - Currently focusing on:
   - **React** and **Node.js** for front-end and back-end development.
