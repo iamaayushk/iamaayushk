@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Developer and tech enthusiast passionate about building web applications.
 - Currently focusing on:
   - **React** and **Node.js** for front-end and back-end development.
-  - Expanding skills in **TypeScript** and **AWS**.
+  - Expanding skills in **React** and **AWS**.
 - Enjoys solving challenging problems and continuously learning new technologies.
 - Open to collaboration and always ready to connect with like-minded tech enthusiasts.
 
