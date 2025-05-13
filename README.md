@@ -1,5 +1,3 @@
-
-
 <!--
 **iamaayushk/iamaayushk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,14 +23,13 @@ Here are some ideas to get you started:
 
 ## Contact Information:
 - 📧 Email: [kumaraayush327@gmail.com](mailto:kumaraayush327@gmail.com)
-- 🌐 Website: [aayushkumar.me](https://aayushkumar.me/)
+- 🌐 Website: [aayushkumar.me](https://new-portfolio-phi-kohl.vercel.app/)
+
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kumar-singh-/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/imaayush_k/)
 
 ---
-
-
 
 ## Languages and Tools:
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -47,7 +44,12 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
+---
 
+## 🔥 GitHub Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=iamaayushk&theme=tokyonight&hide_border=true)
+
+---
 
 ## 🚀 Let's Connect and Build Together! 🌟
 Feel free to reach out if you're interested in collaborating, have any questions, or just want to chat about tech!
