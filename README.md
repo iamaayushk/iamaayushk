@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Contact Information:
 - 📧 Email: [kumaraayush327@gmail.com](mailto:kumaraayush327@gmail.com)
-- 🌐 Website: [aayushkumar.me](https://new-portfolio-phi-kohl.vercel.app/)
+- 🌐 Website: [Aayush's Portfolio](https://aayush-kumar14.vercel.app/)
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kumar-singh-/)
